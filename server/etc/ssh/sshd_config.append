@@ -1,0 +1,9 @@
+Match Group galear_users
+ForceCommand internal-sftp
+PasswordAuthentication no
+ChrootDirectory /var/sftp
+PermitTunnel no
+AllowAgentForwarding no
+AllowTcpForwarding no
+X11Forwarding no
+

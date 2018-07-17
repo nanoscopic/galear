@@ -1,0 +1,34 @@
+Copyright of the files within this project are as follows:
+
+/srv/www/galclient/ico
+  Most images here are from the fat cow hosting icons set ( freeware )
+  Creative Commons Attribution 3.0 License
+  http://www.fatcow.com/free-icons
+  Arrow icons are from icons8.com If you use them in a hosting setting you will need to link to them crediting the usage.
+
+/srv/www/galclient/js/crop
+  From Croppr.js
+  https://github.com/jamesssooi/Croppr.js
+  MIT License
+  Copyright (c) 2017 James Ooi
+
+/srv/www/galclient/js/DomCascade
+  From github.com/nanoscopic/DomCascade
+  CC0 1.0 License
+  Copyright (c) 2004-2018 David Helkowski
+
+/srv/www/galclient/js/map
+  From leafletjs.com
+  https://github.com/Leaflet/Leaflet
+  https://github.com/Leaflet/Leaflet/blob/master/LICENSE
+  Copyright (c) 2017 Vladimir Agafonkin
+
+/srv/www/galclient/js/protocut
+  From github.com/nanoscopic/protocuti
+  MIT License
+  Copyright (c) 2004-2018 David Helkowski
+
+Besides these specific directories of files the rest of the files in this project are:
+  Copyright (c) 2018 SUSE LLC
+  MIT License
+  Authored by David Helkowski
